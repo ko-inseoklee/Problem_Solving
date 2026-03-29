@@ -1,3 +1,13 @@
+### Bubble Sort
+
+### Selection Sort
+
+### Insertion Sort
+
+### Quick Sort
+
+### Heap Sort
+
 ### Merge Sort
 
 #### 1. 핵심 알고리즘 
@@ -9,3 +19,7 @@
 - 시간 복잡도: 항상 $O(n \log n)$.
 - 공간 복잡도: $O(n)$ (추가적인 임시 배열 사용).
 - 안정성: Stable Sort (데이터의 상대적 순서 유지).
+
+### Radix Sort
+
+### Bucket Sort
